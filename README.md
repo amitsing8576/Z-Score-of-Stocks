@@ -23,7 +23,7 @@ This project involves building a model to generate Z-Score statistics for five s
 - **data_visualization.py**: Script to plot stock prices and Z-Scores using `Matplotlib`.
 - **README.md**: Project documentation.
 
-##Dependencies
+## Dependencies
 - **yfinance**
 - **Numpy**
 - **Pandas**
